@@ -1,0 +1,590 @@
+[
+  {
+    "text": "شو هيدا؟",
+    "dialect": "Levantine",
+    "features": "Uses 'شو' for 'what', common in Levantine (& Gulf)",
+    "msa_translation": "ما هذا؟"
+  },
+  {
+    "text": "شلون صار؟",
+    "dialect": "Iraqi",
+    "features": "Uses 'شلون' (how) and 'صار' (where). Iraqi specific verb form",
+    "msa_translation": "كيف حدث؟"
+  },
+  {
+    "text": "زين ونشوفكم",
+    "dialect": "Gulf",
+    "features": "Uses 'زين' for 'okay' and 'نشوفكم' for 'we’ll see you'",
+    "msa_translation": "حسناً، إلى اللقاء"
+  },
+  {
+    "text": "شو صار وياك؟",
+    "dialect": "Gulf",
+    "features": "Uses 'شو صار' meaning 'what happened'",
+    "msa_translation": "ماذا حدث لك؟"
+  },
+  {
+    "text": "شو عم تعمل؟",
+    "dialect": "Levantine",
+    "features": "Uses 'شو' and 'عم تعمل' for 'what are you doing?'",
+    "msa_translation": "ماذا تفعل؟"
+  },
+  {
+    "text": "وين السوق؟",
+    "dialect": "Gulf",
+    "features": "Uses 'وين' for 'where' and 'السوق' for 'market'",
+    "msa_translation": "أين السوق؟"
+  },
+  {
+    "text": "شلون صحتك؟",
+    "dialect": "Iraqi",
+    "features": "Uses 'شلون' for 'how' and 'صحتك' for 'your health'",
+    "msa_translation": "كيف صحتك؟"
+  },
+  {
+    "text": "رايح عالدوام؟",
+    "dialect": "Egyptian",
+    "features": "Simple Egyptian sentence asking if going to work",
+    "msa_translation": "هل تذهب إلى العمل؟"
+  },
+  {
+    "text": "ليش ما رديت؟",
+    "dialect": "Levantine",
+    "features": "Uses 'ليش' for 'why' and 'ما رديت' for 'didn’t you answer?'",
+    "msa_translation": "لماذا لم تجب؟"
+  },
+  {
+    "text": "هسا بنروح وين؟",
+    "dialect": "Gulf",
+    "features": "'هسا' mean 'now', common Gulf usage",
+    "msa_translation": "الآن، إلى أين سنذهب؟"
+  },
+  {
+    "text": "وين كنت وياك؟",
+    "dialect": "Iraqi",
+    "features": "Iraqi verb form 'كنت' for 'were' with 'وين' meaning 'where'",
+    "msa_translation": "أين كنت؟"
+  },
+  {
+    "text": "ليه ساكت؟",
+    "dialect": "Egyptian",
+    "features": "Asking why someone is silent",
+    "msa_translation": "لماذا أنت صامت؟"
+  },
+  {
+    "text": "شواسمك؟",
+    "dialect": "Gulf",
+    "features": "Combined 'شو' and 'اسمك' in one word, common in Gulf dialect",
+    "msa_translation": "ما اسمك؟"
+  },
+  {
+    "text": "شو رأيك؟",
+    "dialect": "Levantine",
+    "features": "Asks 'what’s your opinion?' using 'شو'",
+    "msa_translation": "ما رأيك؟"
+  },
+  {
+    "text": "يديك العافية",
+    "dialect": "Gulf",
+    "features": "Phrase meaning 'may your hands be safe' (thank you)",
+    "msa_translation": "شكراً لك"
+  },
+  {
+    "text": "شلون الجو اليوم؟",
+    "dialect": "Iraqi",
+    "features": "Asking 'how is the weather today?'",
+    "msa_translation": "كيف الطقس اليوم؟"
+  },
+  {
+    "text": "شو اسمك؟",
+    "dialect": "Gulf",
+    "features": "Asking 'what is your name?'",
+    "msa_translation": "ما اسمك؟"
+  },
+  {
+    "text": "شفت الفلم؟",
+    "dialect": "Gulf",
+    "features": "Asking if someone saw the movie",
+    "msa_translation": "هل شاهدت الفيلم؟"
+  },
+  {
+    "text": "ليش متأخر؟",
+    "dialect": "Levantine",
+    "features": "Asking 'why are you late?'",
+    "msa_translation": "لماذا تأخرت؟"
+  },
+  {
+    "text": "وين تدرس؟",
+    "dialect": "Iraqi",
+    "features": "Asking 'where do you study?'",
+    "msa_translation": "أين تدرس؟"
+  },
+  {
+    "text": "مش فاضي دلوقتي",
+    "dialect": "Egyptian",
+    "features": "Saying 'not free now'",
+    "msa_translation": "لست متفرغاً الآن"
+  },
+  {
+    "text": "كيف صحتك؟",
+    "dialect": "Levantine",
+    "features": "Asking 'how is your health?'",
+    "msa_translation": "كيف صحتك؟"
+  },
+  {
+    "text": "وين رايح؟",
+    "dialect": "Levantine",
+    "features": "Uses 'وين' for 'where' and 'رايح' for 'going' (masculine form)",
+    "msa_translation": "إلى أين تذهب؟"
+  },
+  {
+    "text": "على مهلك",
+    "dialect": "Gulf",
+    "features": "Expression meaning 'take your time'",
+    "msa_translation": "على مهلك"
+  },
+  {
+    "text": "ليش ما أكلت؟",
+    "dialect": "Iraqi",
+    "features": "Asking 'why didn’t you eat?'",
+    "msa_translation": "لماذا لم تأكل؟"
+  },
+  {
+    "text": "وين رايحين؟",
+    "dialect": "Levantine",
+    "features": "Asking 'where are you going?'",
+    "msa_translation": "إلى أين تذهبون؟"
+  },
+  {
+    "text": "شكراً على المساعدة",
+    "dialect": "Egyptian",
+    "features": "Saying 'thanks for the help'",
+    "msa_translation": "شكراً على المساعدة"
+  },
+  {
+    "text": "تعال هنا بسرعة",
+    "dialect": "Gulf",
+    "features": "Command 'come here quickly'",
+    "msa_translation": "تعال إلى هنا بسرعة"
+  },
+  {
+    "text": "شو بدك تاكل؟",
+    "dialect": "Levantine",
+    "features": "Asking 'what do you want to eat?'",
+    "msa_translation": "ماذا تريد أن تأكل؟"
+  },
+  {
+    "text": "فين العربية؟",
+    "dialect": "Egyptian",
+    "features": "Asking 'where is the car?'",
+    "msa_translation": "أين السيارة؟"
+  },
+  {
+    "text": "مين صاحبي؟",
+    "dialect": "Gulf",
+    "features": "Asking 'who is my friend?'",
+    "msa_translation": "من هو صديقي؟"
+  },
+  {
+    "text": "شلونك اليوم؟",
+    "dialect": "Iraqi",
+    "features": "Asking 'how are you today?'",
+    "msa_translation": "كيف حالك اليوم؟"
+  },
+  {
+    "text": "شلونك؟",
+    "dialect": "Iraqi",
+    "features": "Uses 'شلونك' meaning 'how are you' (masculine)",
+    "msa_translation": "كيف حالك؟"
+  },
+  {
+    "text": "شو القصة؟",
+    "dialect": "Levantine",
+    "features": "Asking 'what’s the story?'",
+    "msa_translation": "ما القصة؟"
+  },
+  {
+    "text": "امتى هتروح؟",
+    "dialect": "Egyptian",
+    "features": "Asking 'when will you go?'",
+    "msa_translation": "متى ستذهب؟"
+  },
+  {
+    "text": "خلّي بالك على نفسك",
+    "dialect": "Gulf",
+    "features": "Expression meaning 'take care of yourself'",
+    "msa_translation": "اعتن بنفسك"
+  },
+  {
+    "text": "ليش ما رديت؟",
+    "dialect": "Iraqi",
+    "features": "Asking 'why didn’t you reply?'",
+    "msa_translation": "لماذا لم تجب؟"
+  },
+  {
+    "text": "وين عيلتك؟",
+    "dialect": "Levantine",
+    "features": "Asking 'where are your family?'",
+    "msa_translation": "أين عائلتك؟"
+  },
+  {
+    "text": "حلو أوي",
+    "dialect": "Egyptian",
+    "features": "Expression meaning 'very nice/beautiful'",
+    "msa_translation": "جميل جداً"
+  },
+  {
+    "text": "تشرب قهوة؟",
+    "dialect": "Gulf",
+    "features": "Offering coffee politely",
+    "msa_translation": "هل تشرب قهوة؟"
+  },
+  {
+    "text": "شلون الجو اليوم؟",
+    "dialect": "Iraqi",
+    "features": "Asking about today’s weather",
+    "msa_translation": "كيف الطقس اليوم؟"
+  },
+  {
+    "text": "شو صار معك؟",
+    "dialect": "Levantine",
+    "features": "Asking 'what happened to you?'",
+    "msa_translation": "ماذا حدث لك؟"
+  },
+  {
+    "text": "فين جواز السفر؟",
+    "dialect": "Egyptian",
+    "features": "Asking 'where is the passport?'",
+    "msa_translation": "أين جواز السفر؟"
+  },
+  {
+    "text": "هات الكتاب",
+    "dialect": "Gulf",
+    "features": "Uses 'هات' as a command to give something",
+    "msa_translation": "أعطني الكتاب"
+  },
+  {
+    "text": "يلا نمشي",
+    "dialect": "Gulf",
+    "features": "Phrase meaning 'let’s go'",
+    "msa_translation": "هيا نذهب"
+  },
+  {
+    "text": "شلونك يا صاحبي؟",
+    "dialect": "Iraqi",
+    "features": "Greeting 'how are you my friend?'",
+    "msa_translation": "كيف حالك يا صديقي؟"
+  },
+  {
+    "text": "شو تحب؟",
+    "dialect": "Levantine",
+    "features": "Asking 'what do you like?'",
+    "msa_translation": "ماذا تحب؟"
+  },
+  {
+    "text": "فين العربية؟",
+    "dialect": "Egyptian",
+    "features": "Asking 'where is the car?'",
+    "msa_translation": "أين السيارة؟"
+  },
+  {
+    "text": "هات الكتاب",
+    "dialect": "Gulf",
+    "features": "Command to give the book",
+    "msa_translation": "أعطني الكتاب"
+  },
+  {
+    "text": "شلون صحتك؟",
+    "dialect": "Iraqi",
+    "features": "Asking about someone’s health",
+    "msa_translation": "كيف صحتك؟"
+  },
+  {
+    "text": "شو أخبارك؟",
+    "dialect": "Levantine",
+    "features": "Asking 'what’s your news?' (how are you)",
+    "msa_translation": "ما أخبارك؟"
+  },
+  {
+    "text": "بحبك",
+    "dialect": "Egyptian",
+    "features": "Saying 'I love you'",
+    "msa_translation": "أحبك"
+  },
+  {
+    "text": "هاتني الكتاب",
+    "dialect": "Gulf",
+    "features": "Command 'give me the book'",
+    "msa_translation": "أعطني الكتاب"
+  },
+  {
+    "text": "وين كنت؟",
+    "dialect": "Iraqi",
+    "features": "Asking 'where were you?'",
+    "msa_translation": "أين كنت؟"
+  },
+  {
+    "text": "ليش زعلان؟",
+    "dialect": "Levantine",
+    "features": "Uses 'ليش' meaning 'why'",
+    "msa_translation": "لماذا أنت زعلان؟"
+  },
+  {
+    "text": "شو رأيك بالفيلم؟",
+    "dialect": "Levantine",
+    "features": "Asking 'what do you think of the movie?'",
+    "msa_translation": "ما رأيك في الفيلم؟"
+  },
+  {
+    "text": "فينك؟",
+    "dialect": "Egyptian",
+    "features": "Short form for 'where are you?'",
+    "msa_translation": "أين أنت؟"
+  },
+  {
+    "text": "تعال هنا",
+    "dialect": "Gulf",
+    "features": "Command 'come here'",
+    "msa_translation": "تعال إلى هنا"
+  },
+  {
+    "text": "شلونكم؟",
+    "dialect": "Iraqi",
+    "features": "Formal 'how are you?'",
+    "msa_translation": "كيف حالكم؟"
+  },
+  {
+    "text": "شو عم تعملوا؟",
+    "dialect": "Levantine",
+    "features": "Asking 'what are you doing?'",
+    "msa_translation": "ماذا تفعلون؟"
+  },
+  {
+    "text": "فين الكتاب؟",
+    "dialect": "Egyptian",
+    "features": "Asking 'where is the book?'",
+    "msa_translation": "أين الكتاب؟"
+  },
+  {
+    "text": "خذ التلفون",
+    "dialect": "Gulf",
+    "features": "Command 'take the phone'",
+    "msa_translation": "خذ الهاتف"
+  },
+  {
+    "text": "شلونك؟",
+    "dialect": "Iraqi",
+    "features": "Short greeting 'how are you?'",
+    "msa_translation": "كيف حالك؟"
+  },
+  {
+    "text": "شو رأيك؟",
+    "dialect": "Levantine",
+    "features": "Asking 'what’s your opinion?'",
+    "msa_translation": "ما رأيك؟"
+  },
+  {
+    "text": "بحب القهوة",
+    "dialect": "Egyptian",
+    "features": "Saying 'I love coffee'",
+    "msa_translation": "أحب القهوة"
+  },
+  {
+    "text": "وين المطعم؟",
+    "dialect": "Levantine",
+    "features": "Uses 'وين' for 'where', common in Levant",
+    "msa_translation": "أين المطعم؟"
+  },
+  {
+    "text": "تعال بسرعة",
+    "dialect": "Gulf",
+    "features": "Command 'come quickly'",
+    "msa_translation": "تعال بسرعة"
+  },
+  {
+    "text": "وين تشتغل؟",
+    "dialect": "Iraqi",
+    "features": "Asking 'where do you work?'",
+    "msa_translation": "أين تعمل؟"
+  },
+  {
+    "text": "شو بدك؟",
+    "dialect": "Levantine",
+    "features": "Asking 'what do you want?'",
+    "msa_translation": "ماذا تريد؟"
+  },
+  {
+    "text": "فين العربية؟",
+    "dialect": "Egyptian",
+    "features": "Asking 'where is the car?'",
+    "msa_translation": "أين السيارة؟"
+  },
+  {
+    "text": "خذ هالكتاب",
+    "dialect": "Gulf",
+    "features": "Command 'take this book'",
+    "msa_translation": "خذ هذا الكتاب"
+  },
+  {
+    "text": "شلون صحتك؟",
+    "dialect": "Iraqi",
+    "features": "Asking about health",
+    "msa_translation": "كيف صحتك؟"
+  },
+  {
+    "text": "شو أخبارك؟",
+    "dialect": "Levantine",
+    "features": "Asking 'what’s the news?'",
+    "msa_translation": "ما أخبارك؟"
+  },
+  {
+    "text": "بحبك",
+    "dialect": "Egyptian",
+    "features": "Saying 'I love you'",
+    "msa_translation": "أحبك"
+  },
+  {
+    "text": "هاتني القلم",
+    "dialect": "Gulf",
+    "features": "Command 'give me the pen'",
+    "msa_translation": "أعطني القلم"
+  },
+  {
+    "text": "شو المشكلة؟",
+    "dialect": "Levantine",
+    "features": "Uses 'شو' to ask 'what’s wrong?' or 'what’s the matter?'",
+    "msa_translation": "ما المشكلة؟"
+  },
+  {
+    "text": "مش كده يا زلمة!",
+    "dialect": "Gulf (Kuwaiti)",
+    "features": "Phrase meaning 'It’s not right like that', uses زلمة",
+    "msa_translation": "ليس هكذا يا رجل!"
+  },
+  {
+    "text": "زين شو طريق؟",
+    "dialect": "Gulf",
+    "features": "Uses 'زين' for 'okay' and 'شو' for 'how' to ask about directions",
+    "msa_translation": "حسناً، كيف الطريق؟"
+  },
+  {
+    "text": "كنت احجي وياك",
+    "dialect": "Iraqi",
+    "features": "Uses 'كنت' for 'was' and 'وياك' for 'with you', meaning 'I was talking to you'",
+    "msa_translation": "كنت أتحدث إليك"
+  },
+  {
+    "text": "إيه ده؟",
+    "dialect": "Egyptian",
+    "features": "Asking 'what’s this?' in a concise way",
+    "msa_translation": "ما هذا؟"
+  },
+  {
+    "text": "ليش زعلان؟",
+    "dialect": "Levantine",
+    "features": "Uses 'ليش' for 'why' and 'زعلان' for 'upset'",
+    "msa_translation": "لماذا أنت زعلان؟"
+  },
+  {
+    "text": "يلا خلّص الشغل",
+    "dialect": "Gulf",
+    "features": "Uses 'يلا' for urging and 'خلّص' for 'finish'",
+    "msa_translation": "هيا أنهِ العمل"
+  },
+  {
+    "text": "شلون أساعدك؟",
+    "dialect": "Iraqi",
+    "features": "Uses 'شلون' for 'how' in offering help",
+    "msa_translation": "كيف أساعدك؟"
+  },
+  {
+    "text": "كل حاجة تمام؟",
+    "dialect": "Egyptian",
+    "features": "Asking if everything is okay, using 'حاجة' for 'thing' and 'تمام' for 'okay'",
+    "msa_translation": "هل كل شيء على ما يرام؟"
+  },
+  {
+    "text": "شو هالحكي؟",
+    "dialect": "Levantine",
+    "features": "Uses 'شو' and 'هالحكي' to ask 'what’s this talk?'",
+    "msa_translation": "ما هذا الحديث؟"
+  },
+  {
+    "text": "مافي شي؟",
+    "dialect": "Iraqi",
+    "features": "Uses 'مافي' for 'there’s nothing', asking if something’s wrong",
+    "msa_translation": "لا يوجد شيء؟"
+  },
+  {
+    "text": "خلّصنا الحمدلله",
+    "dialect": "Gulf",
+    "features": "Uses 'خلّصنا' to indicate completion, meaning 'we’re done'",
+    "msa_translation": "انتهينا الحمد لله"
+  },
+  {
+    "text": "شو بدك؟",
+    "dialect": "Levantine/Gulf hybrid",
+    "features": "Uses 'شو' and 'بدك', a mix seen in modern speech",
+    "msa_translation": "ماذا تريد؟"
+  },
+  {
+    "text": "مش عارف إيه ده؟",
+    "dialect": "Egyptian",
+    "features": "Expressing confusion. 'مش عارف' means 'I don’t know'",
+    "msa_translation": "لا أعرف ما هذا؟"
+  },
+  {
+    "text": "شو هالزحمة؟",
+    "dialect": "Levantine",
+    "features": "Uses 'شو' and 'هالزحمة' to ask about a crowd or traffic",
+    "msa_translation": "ما هذه الزحمة؟"
+  },
+  {
+    "text": "وين المقهى؟",
+    "dialect": "Gulf",
+    "features": "Uses 'وين' for 'where' to ask about a coffee shop",
+    "msa_translation": "أين المقهى؟"
+  },
+  {
+    "text": "كنت أفكر بيك",
+    "dialect": "Iraqi",
+    "features": "Uses 'كنت' for 'was' and 'بيك' for 'about you', meaning 'I was thinking of you'",
+    "msa_translation": "كنت أفكر بك"
+  },
+  {
+    "text": "الدنيا زحمة اليوم",
+    "dialect": "Egyptian",
+    "features": "Uses 'الدنيا' for 'world' and 'زحمة' for 'today' to describe a busy day",
+    "msa_translation": "العالم مزدحم اليوم"
+  },
+  {
+    "text": "شو هالفوضى؟",
+    "dialect": "Levantine",
+    "features": "Uses 'شو' and 'هالفوضى' to ask about chaos or mess",
+    "msa_translation": "ما هذه الفوضى؟"
+  },
+  {
+    "text": "يلا هات الرقم",
+    "dialect": "Gulf",
+    "features": "Uses 'يلا' for urging and 'هات' for 'give me' to request a number",
+    "msa_translation": "هيا أعطني الرقم"
+  },
+  {
+    "text": "شلون ألكي بيت؟",
+    "dialect": "Iraqi",
+    "features": "Uses 'شلون' for 'how' to ask about finding a house",
+    "msa_translation": "كيف أجد بيتاً؟"
+  },
+  {
+    "text": "السوق زحمة قوي",
+    "dialect": "Egyptian",
+    "features": "Uses 'زحمة' for 'full' to describe a crowded market",
+    "msa_translation": "السوق مزدحم جداً"
+  },
+  {
+    "text": "شو بدك مني؟",
+    "dialect": "Levantine",
+    "features": "Uses 'شو' and 'مني' to ask 'what do you want from me?'",
+    "msa_translation": "ماذا تريد مني؟"
+  }
+]
