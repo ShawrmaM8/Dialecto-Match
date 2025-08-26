@@ -11,16 +11,16 @@ vectorizer = pickle.load(open(r"C:\Users\muzam\OneDrive\Desktop\PROJECTS\Dialect
 df = pd.read_json(r"C:\Users\muzam\OneDrive\Desktop\PROJECTS\Dialecto Match\d-data\dialectals.json")
 
 # App
-st.title("🗣 DialectoMatch: Guess the Dialect!")
+st.title("🗣 DialectoMatch: Guess the Arabic Dialect!")
 
 sample = df.sample(1).iloc[0]
 text = sample['text']
 true_dialect = sample['dialect']
 
-st.markdown(f"### What dialect is this?\n> {text}")
+st.markdown(f"### What dialect is this? ما هي لهجة هذه الجملة؟ \n> {text}")
 
-options = ['Levantine', 'Gulf', 'Maghrebi', 'Egyptian']
-guess = st.radio("Choose one:", options)
+options = ['Levantine شامي', 'Gulf خليجي', 'Maghrebi مغربي', 'Egyptian مصري', 'Iraqi عراقي']
+guess = st.radio("Choose one اختر واحد :", options)
 
 if st.button("Submit"):
     pred = clf.predict(vectorizer.transform([text]))[0]
@@ -35,4 +35,5 @@ if st.button("Submit"):
 
     # Optional:
     # st.markdown("### 🧠 How would this sound in another dialect?")
+
 
